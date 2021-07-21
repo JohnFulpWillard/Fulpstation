@@ -6471,10 +6471,10 @@
 /turf/open/floor/iron/cafeteria,
 /area/commons/dorms)
 "aul" = (
-/obj/machinery/computer/shuttle/mining/common/monastery_shuttle,
 /obj/structure/sign/warning/pods{
 	pixel_y = 32
 	},
+/obj/machinery/computer/shuttle/mining/common/monastery_shuttle,
 /turf/open/floor/iron/dark,
 /area/commons/dorms)
 "aum" = (
