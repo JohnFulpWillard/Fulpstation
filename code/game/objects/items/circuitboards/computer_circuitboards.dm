@@ -249,7 +249,7 @@
 	else
 		return ..()
 
-/obj/item/circuitboard/computer/monastery_shuttle
+/obj/item/circuitboard/computer/mining_shuttle/common/monastery_shuttle
 	name = "Monastery Shuttle (Computer Board)"
 	greyscale_colors = CIRCUIT_COLOR_GENERIC
 	build_path = /obj/machinery/computer/shuttle/mining/common/monastery_shuttle
